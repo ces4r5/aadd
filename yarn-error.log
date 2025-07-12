@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/bin/node /usr/local/bin/yarn add expo-router
+  /usr/local/bin/node /usr/local/bin/yarn add expo-linear-gradient expo-blur
 
 PATH: 
   /bin:/usr/bin:/usr/local/bin
